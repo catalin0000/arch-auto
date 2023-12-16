@@ -242,3 +242,6 @@ cd ..
 
 # XSS Injection tool installation
 install_package xsser xsstrike
+
+# Install HuntKit Docker
+docker pull mcnamee/huntkit
