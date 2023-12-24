@@ -243,5 +243,8 @@ cd ..
 # XSS Injection tool installation
 install_package xsser xsstrike
 
+Install Docker
+curl -fsSL https://get.docker.com -o get-docker.sh && sh ./get-docker.sh && rm ./get-docker.sh
+
 # Install HuntKit Docker
 docker pull mcnamee/huntkit
